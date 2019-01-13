@@ -1,7 +1,7 @@
 # Symlink-Directory-Traversal-smb-manually
 
 
-SAMBA Symlink Directory Traversal Manual Exploitation
+Samba symlink traversal manual exploit
 
 ### Introduction 
 
