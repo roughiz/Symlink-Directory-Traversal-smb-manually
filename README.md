@@ -35,10 +35,6 @@ You have to modify this file like in the url  ( https://www.exploit-db.com/explo
 	}
 **********************
 
-You can show the client.c symlink section after modification in the screen below. Save it , and you have to install the package.
-
-![client.c](https://github.com/roughiz/Symlink-Directory-Traversal-smb-manually/blob/master/clientMoif_2019-01-13_15:47__10.11.1.136.png)
-
 ### New client.c file
 
 You can replace the old client.c with the new one [here](https://github.com/roughiz/Symlink-Directory-Traversal-smb-manually/blob/master/client.c)
