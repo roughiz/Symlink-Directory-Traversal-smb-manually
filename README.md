@@ -39,6 +39,10 @@ You can show the client.c symlink section after modification in the screen below
 
 ![client.c](https://github.com/roughiz/Symlink-Directory-Traversal-smb-manually/blob/master/clientMoif_2019-01-13_15:47__10.11.1.136.png)
 
+### New client.c file
+
+You can replace the old client.c with the new one [here](https://github.com/roughiz/Symlink-Directory-Traversal-smb-manually/blob/master/client.c)
+
 ### Install Package externally to use for your pentest tests
 
 In my case i want to use this  smb client modified version just for my pentest tests, so the idea is to install it in a directory instead of a global installation.
